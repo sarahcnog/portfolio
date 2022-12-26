@@ -3,7 +3,7 @@
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Portfólio**
-| :label: Tecnologias | java, html
+| :label: Tecnologias | CSS, html
 | :rocket: URL         | https://github.com/sarahcnog/portfolio
 | :fire: Desafio     | -
 
