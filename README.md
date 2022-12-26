@@ -1,6 +1,6 @@
 # PORTFÓLIO
 
-| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/sarahcnog  |
+| :placard: Vitrine.Dev |   |
 | -------------  | --- |
 | :sparkles: Nome        | **PORTFÓLIO**
 | :label: Tecnologias | CSS, html
